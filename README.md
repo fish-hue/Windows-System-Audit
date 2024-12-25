@@ -1,5 +1,3 @@
-Here's a README file that includes instructions for users to set the PowerShell execution policy before running the script you provided. This README also summarizes the functionality of the script and how to use it effectively.
-
 ---
 
 # System Information Collection Script
