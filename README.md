@@ -55,9 +55,4 @@ Any errors encountered during the execution of the script will be logged. At the
 - Running the script may require administrative privileges for certain operations.
 - Always check the output directory to ensure the report is saved as expected.
 
-## Conclusion
-This script is an effective tool for system administrators and users who need to gather comprehensive system information quickly. By following the above steps and using the execution policy, you can securely run the script and obtain valuable insights into your system.
-
 --- 
-
-Feel free to customize this README as needed, including adding more specific details about the script, altering commands, or addressing particular user scenarios.
